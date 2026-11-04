@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("kfir the king")
+st.write("kfir the king!")
